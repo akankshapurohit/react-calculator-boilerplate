@@ -7,3 +7,42 @@
         max-width: 300px;
     }
 }
+.result {
+    height: 60px;
+    width: 100%;
+    border: 1px solid black;
+    border: 1px solid black;
+    margin: 50px 0px 2px 0px;
+    background-color: white;
+  }
+  
+  .result p {
+    font-size: 40px;
+    margin: 5px;
+    float: right;
+  }
+  
+  .calculatorBody {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .button {
+    display: block;
+    border: 1px solid black;
+    width: 100%;
+  }
+  button:hover{
+      background-color: lightgrey;
+  }
+  .operator{
+      color:green;
+  }
+  
+  button {
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+    border: none;
+    background-color: white;
+  }
